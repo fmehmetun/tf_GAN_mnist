@@ -1,5 +1,5 @@
 # tf_GAN_mnist
-One of the most basic GAN setup. Training on MNIST dataset for generating handwritten digits.
+One of the most basic GAN setup. Training on MNIST dataset for generating handwritten digits, on Tensorflow.
 
 # Training
 `python train.py`
